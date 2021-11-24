@@ -1,11 +1,8 @@
 // ==UserScript==
 // @name         Toggleable (Key V) ESP for Shell Shockers (PROOF OF CONCEPT)
-// @version      0.1
 // @author       A3+++
-// @description  Only to be used for TESTING purposes, in private lobbies.
 // @match        https://shellshock.io/*
 // @grant        none
-// @namespace    https://greasyfork.org/users/815159
 // @run-at       document-start
 // ==/UserScript==
 
